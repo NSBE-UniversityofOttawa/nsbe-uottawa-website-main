@@ -139,7 +139,7 @@ const Sponsor = () => {
 				</a>{" "}
 				or look through our detailed{" "}
 				<a
-					href="./NSBE_sponsorship_Pack.pdf"
+					href="./NSBE_Sponsorship_Package_24-25.pdf"
 					className="font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-indigo-900 hover:underline hover:text-red-500"
 				>
 					sponsorship package here
